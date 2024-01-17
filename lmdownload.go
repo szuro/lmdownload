@@ -25,7 +25,7 @@ import (
 	"encoding/base64"
 )
 
-const pageUrl  = "https://www.linux-magazine.com"
+const pageUrl  = "https://linux-magazine.pl"
 
 const iniFileName = "lmdownload.ini"
 // will be overwritten by $SNAP_USER_COMMON
